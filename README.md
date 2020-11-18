@@ -24,3 +24,13 @@ Other sources I used:
 
 https://github.com/cemuyuk/RayTracing
 https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/reflect.xhtml
+
+
+All my Header and CPP files are located in the src folder. That is the only way VS would let me run it. 
+
+Also HW4-starter-code.VC GitHub would not allow me to install due to the file size.
+
+It also would not let me install eigen-3.3.8, but I will place the link here to get it. https://gitlab.com/libeigen/eigen/-/archive/3.3.8/eigen-3.3.8.zip
+
+
+Aside from that all of the files I used to compile the code are located in this repository. 
